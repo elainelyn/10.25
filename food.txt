@@ -1,0 +1,4 @@
+rice
+meat
+potato
+noodle
